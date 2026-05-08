@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.ns", "dom"]
+  },
+  "imports": {
+    "hono": "https://esm.sh/hono@4.0.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.validProperties": [
+    "composes"
+  ],
+  "html.validate.styles": false,
+  "html.lint.attributeUnusedValue": "ignore",
+  "html.lint.attributeEmptyLengthCheck": "ignore",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
